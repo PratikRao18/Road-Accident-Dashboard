@@ -5,13 +5,18 @@
 
 
 # 📌 Overview
-The Road Accident Dashboard is an interactive Tableau visualization designed to analyze and track road accidents over time. This project provides valuable insights into accident trends, causes, severity levels, and geographical hotspots, helping policymakers, law enforcement, and researchers take data-driven actions to improve road safety.
+The Road Accident Dashboard is an interactive Tableau visualization designed to analyze and track road accidents over time. 
+This project provides valuable insights into accident trends, causes, severity levels, and geographical hotspots, helping policymakers, law enforcement, and researchers take data-driven actions to improve road safety.
 
 # 🎯 Objective
 The main objectives of this dashboard are:
+
 To analyze road accident patterns based on time, location, and severity.
+
 To identify high-risk zones and accident-prone areas.
+
 To understand the influence of weather, road conditions, and vehicle types on accidents.
+
 To provide an interactive and user-friendly data exploration experience.
 
 # 📊 Features
