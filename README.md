@@ -1,4 +1,4 @@
-### 🚗 Road Accident Dashboard
+# 🚗 Road Accident Dashboard
 
 # 📷 Dashboard Preview
 ![image](https://github.com/user-attachments/assets/7a5f2ff8-e185-4999-8625-240a6892378d)
